@@ -1,6 +1,0 @@
-print("Karthik Gouda")
-print("Karthik Gouda")
-print("Karthik Gouda")
-print("Karthik Gouda")
-print("Karthik Gouda")
-print("Karthik Gouda")
