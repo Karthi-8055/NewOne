@@ -1,3 +1,3 @@
 print("karthik gouda")
-print("good morning guys")
-print("how are you")
+print("good morning everybody")
+print("how are you my love")
